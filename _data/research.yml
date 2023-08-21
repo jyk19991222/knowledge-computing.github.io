@@ -1,3 +1,23 @@
+- title: AI-Climate
+  progress: ongoing
+  image: images/research/LASI_DAD.png
+  klass: 
+  desc: TBD
+  abstract: TBD
+  paper:
+  sponsor:
+  github: 
+  demo:
+- title: DARPA Critical MAAS
+  progress: ongoing
+  image: images/research/LASI_DAD.png
+  klass: 
+  desc: Exploring the potential for machine learning and artificial intelligence tools and techniques to accelerate critical mineral assessments by automating key steps in the process.
+  abstract: Exploring the potential for machine learning and artificial intelligence tools and techniques to accelerate critical mineral assessments by automating key steps in the process.
+  paper:
+  sponsor:
+  github: https://criticalminerals.darpa.mil/
+  demo:
 - title: LASI-DAD
   progress: ongoing
   image: images/research/LASI_DAD.png
